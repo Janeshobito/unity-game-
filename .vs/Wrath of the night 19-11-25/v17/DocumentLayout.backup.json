@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\sunith\\Wrath of the night 19-11-25\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE92FD34-1241-A5F4-44CB-9BF24AF8D3C5}|Assembly-CSharp.csproj|c:\\sunith\\wrath of the night 19-11-25\\assets\\complete gun\\gun\\particles\\houidisoft technology\\plasma shader\\prefabs\\unlockspherehit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE92FD34-1241-A5F4-44CB-9BF24AF8D3C5}|Assembly-CSharp.csproj|solutionrelative:assets\\complete gun\\gun\\particles\\houidisoft technology\\plasma shader\\prefabs\\unlockspherehit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE92FD34-1241-A5F4-44CB-9BF24AF8D3C5}|Assembly-CSharp.csproj|c:\\sunith\\wrath of the night 19-11-25\\assets\\complete gun\\gun\\particles\\houidisoft technology\\plasma shader\\prefabs\\bluebulletunlock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE92FD34-1241-A5F4-44CB-9BF24AF8D3C5}|Assembly-CSharp.csproj|solutionrelative:assets\\complete gun\\gun\\particles\\houidisoft technology\\plasma shader\\prefabs\\bluebulletunlock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE92FD34-1241-A5F4-44CB-9BF24AF8D3C5}|Assembly-CSharp.csproj|C:\\sunith\\Wrath of the night 19-11-25\\assets\\puzzle\\orbtarget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE92FD34-1241-A5F4-44CB-9BF24AF8D3C5}|Assembly-CSharp.csproj|solutionrelative:assets\\puzzle\\orbtarget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE92FD34-1241-A5F4-44CB-9BF24AF8D3C5}|Assembly-CSharp.csproj|C:\\sunith\\Wrath of the night 19-11-25\\assets\\puzzle\\patternpuzzle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE92FD34-1241-A5F4-44CB-9BF24AF8D3C5}|Assembly-CSharp.csproj|solutionrelative:assets\\puzzle\\patternpuzzle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE92FD34-1241-A5F4-44CB-9BF24AF8D3C5}|Assembly-CSharp.csproj|c:\\sunith\\wrath of the night 19-11-25\\assets\\puzzle\\puzzlecube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE92FD34-1241-A5F4-44CB-9BF24AF8D3C5}|Assembly-CSharp.csproj|solutionrelative:assets\\puzzle\\puzzlecube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE92FD34-1241-A5F4-44CB-9BF24AF8D3C5}|Assembly-CSharp.csproj|c:\\sunith\\wrath of the night 19-11-25\\assets\\puzzle\\puzzlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE92FD34-1241-A5F4-44CB-9BF24AF8D3C5}|Assembly-CSharp.csproj|solutionrelative:assets\\puzzle\\puzzlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnlockSphereHit.cs",
+              "DocumentMoniker": "C:\\sunith\\Wrath of the night 19-11-25\\Assets\\Complete gun\\Gun\\Particles\\Houidisoft technology\\Plasma Shader\\Prefabs\\UnlockSphereHit.cs",
+              "RelativeDocumentMoniker": "Assets\\Complete gun\\Gun\\Particles\\Houidisoft technology\\Plasma Shader\\Prefabs\\UnlockSphereHit.cs",
+              "ToolTip": "C:\\sunith\\Wrath of the night 19-11-25\\Assets\\Complete gun\\Gun\\Particles\\Houidisoft technology\\Plasma Shader\\Prefabs\\UnlockSphereHit.cs",
+              "RelativeToolTip": "Assets\\Complete gun\\Gun\\Particles\\Houidisoft technology\\Plasma Shader\\Prefabs\\UnlockSphereHit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T17:42:05.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PuzzleCube.cs",
+              "DocumentMoniker": "C:\\sunith\\Wrath of the night 19-11-25\\Assets\\Puzzle\\PuzzleCube.cs",
+              "RelativeDocumentMoniker": "Assets\\Puzzle\\PuzzleCube.cs",
+              "ToolTip": "C:\\sunith\\Wrath of the night 19-11-25\\Assets\\Puzzle\\PuzzleCube.cs",
+              "RelativeToolTip": "Assets\\Puzzle\\PuzzleCube.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA9wCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T17:34:06.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PuzzleManager.cs",
+              "DocumentMoniker": "C:\\sunith\\Wrath of the night 19-11-25\\Assets\\Puzzle\\PuzzleManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Puzzle\\PuzzleManager.cs",
+              "ToolTip": "C:\\sunith\\Wrath of the night 19-11-25\\Assets\\Puzzle\\PuzzleManager.cs",
+              "RelativeToolTip": "Assets\\Puzzle\\PuzzleManager.cs",
+              "ViewState": "AgIAAPcAAAAAAAAAAAAswBkBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T17:33:41.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BlueBulletUnlock.cs",
+              "DocumentMoniker": "C:\\sunith\\Wrath of the night 19-11-25\\Assets\\Complete gun\\Gun\\Particles\\Houidisoft technology\\Plasma Shader\\Prefabs\\BlueBulletUnlock.cs",
+              "RelativeDocumentMoniker": "Assets\\Complete gun\\Gun\\Particles\\Houidisoft technology\\Plasma Shader\\Prefabs\\BlueBulletUnlock.cs",
+              "ToolTip": "C:\\sunith\\Wrath of the night 19-11-25\\Assets\\Complete gun\\Gun\\Particles\\Houidisoft technology\\Plasma Shader\\Prefabs\\BlueBulletUnlock.cs",
+              "RelativeToolTip": "Assets\\Complete gun\\Gun\\Particles\\Houidisoft technology\\Plasma Shader\\Prefabs\\BlueBulletUnlock.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T17:33:02.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrbTarget.cs",
+              "DocumentMoniker": "C:\\sunith\\Wrath of the night 19-11-25\\Assets\\Puzzle\\OrbTarget.cs",
+              "RelativeDocumentMoniker": "Assets\\Puzzle\\OrbTarget.cs",
+              "ToolTip": "C:\\sunith\\Wrath of the night 19-11-25\\Assets\\Puzzle\\OrbTarget.cs",
+              "RelativeToolTip": "Assets\\Puzzle\\OrbTarget.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T10:17:32.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PatternPuzzle.cs",
+              "DocumentMoniker": "C:\\sunith\\Wrath of the night 19-11-25\\Assets\\Puzzle\\PatternPuzzle.cs",
+              "RelativeDocumentMoniker": "Assets\\Puzzle\\PatternPuzzle.cs",
+              "ToolTip": "C:\\sunith\\Wrath of the night 19-11-25\\Assets\\Puzzle\\PatternPuzzle.cs",
+              "RelativeToolTip": "Assets\\Puzzle\\PatternPuzzle.cs",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAswNEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T10:16:19.816Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
